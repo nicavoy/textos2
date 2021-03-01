@@ -1,0 +1,35 @@
+@charset "utf-8";
+.header {
+    text-align: center;
+}
+#cabeza h1 {
+    text-align: left;
+    color: #FC060A;
+}
+#cabeza p {
+    text-align: left;
+}
+#cabeza ol {
+    text-align: left;
+}
+#cabeza img {
+    float: left;
+    left: auto;
+    padding-right: 10px;
+}
+#cabeza h4 {
+
+
+}
+#compor {
+    position: absolute;
+    height: 152px;
+    width: 388px;
+    right: auto;
+    top: 124px;
+    visibility: hidden;
+    background-color: #FFFFFF;
+}
+#compor p img {
+
+}
